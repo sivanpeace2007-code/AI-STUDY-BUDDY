@@ -110,3 +110,4 @@ ai-studybuddy/
 | `refreshToken` | 7 days   | httpOnly, sameSite=strict    |
 
 In production, both cookies have `secure: true`.
+demo link:
